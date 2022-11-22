@@ -8,7 +8,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
-Pour executer en local le projet Open Transport, vous devez au préalable installer du projet NONO :
+Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
 A définir
@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel du projet PATRON:
+Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel du projet de NONO:
 
 
 ```
